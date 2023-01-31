@@ -4,8 +4,6 @@ const hbs = require("hbs");
 const forecast = require("./forecast");
 const geocode = require("./geocode");
 
-console.log("Valod");
-
 const app = express();
 
 //Define paths fo Express config
